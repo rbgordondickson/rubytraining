@@ -15,3 +15,11 @@ my_exponent = 2**3
 puts my_exponent
 my_modulo = 43 % 6
 puts my_modulo
+
+puts "This is a puts put string"
+print "This is a print "
+print "This is another print"
+
+my_int = "I love rub".length
+print my_int
+puts my_int
