@@ -23,3 +23,36 @@ print "This is another print"
 my_int = "I love rub".length
 print my_int
 puts my_int
+
+my_str = "satan".reverse
+puts my_str
+my_str = "Satan".upcase
+puts my_str
+my_str = "Satan".downcase
+puts my_str
+
+#THIS IS S COMMENT
+=begin
+This is a
+comment block
+=end
+
+name = "Gordon"
+#nameing convention is name or first_name
+
+sum = 13 + 379
+product = 923 * 15
+quotient = 13209 / 17
+puts sum
+puts product
+puts quotient
+
+name = "Gordon".downcase.reverse.upcase
+#name.downcase.reverse.upcase.downcase.reverse
+puts name
+#Single line comment
+=begin
+Multi
+line
+comment
+=end
